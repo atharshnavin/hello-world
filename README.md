@@ -1,3 +1,2 @@
 # hello-world
-Python project
-im new to python
+Good Afternoon Have a good day
